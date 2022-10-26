@@ -1,0 +1,8 @@
+[Nemo Action]
+Name=Send to Phone
+Comment=Send to phone: %F
+Exec=kdeconnect-cli --share %F -d c5c955e906c44f24
+Icon-Name=share
+Selection=notnone
+Extensions=any;
+Quote=double
