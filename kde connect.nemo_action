@@ -1,7 +1,7 @@
 [Nemo Action]
 Name=Send to Phone
 Comment=Send to phone: %F
-Exec=kdeconnect-cli --share %F -n "Tyler's Galaxy S10+"
+Exec=kdeconnect-cli --share %F -n "[YOURDEVICENAMEHERE]"
 Icon-Name=share
 Selection=notnone
 Extensions=any;
